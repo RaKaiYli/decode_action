@@ -1,4 +1,4 @@
-//Tue Jul 09 2024 03:31:18 GMT+0000 (Coordinated Universal Time)
+//Tue Jul 09 2024 03:32:36 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
 const _0x22822c = _0x2fbb6b("霸王茶姬"),
