@@ -1,6 +1,6 @@
 '''
 cron: 30 11 * * *
-new Env('望潮阅读抽奖');
+new Env('望潮阅读抽奖'); 
 问题反馈联系请联系：https://t.me/bwersgt
 群组：https://t.me/yangmaoxz
 频道地址：https://t.me/ymxzpd
