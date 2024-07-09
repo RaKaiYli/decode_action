@@ -94,6 +94,6 @@ final_decrypted_data = decrypt_nested(encoded_data)
 final_decrypted_data_str = final_decrypted_data.decode('utf-8')  # 根据实际编码调整 utf-8
 # 输出最终解密结果
 print("最终解密结果:")
-print("#"+formatted_date + "\n"+final_decrypted_data)
+print(f"#{formatted_date}\n{final_decrypted_data}")
 with open("./onput.py", 'wb') as f:
     f.write(final_decrypted_data)
