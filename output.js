@@ -1,4 +1,4 @@
-//Thu Aug 22 2024 08:25:26 GMT+0000 (Coordinated Universal Time)
+//Tue Aug 27 2024 02:08:40 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
 const lIiIlIII = require("got"),
